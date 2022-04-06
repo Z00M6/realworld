@@ -1,51 +1,51 @@
 [
   {
     "path": "/",
-    "component": "/Users/lem/lagou/hook-operation-1/part3/part3-3/realworld-nuxt/pages/layout",
+    "component": "/Users/lem/Desktop/realworld-nuxt/pages/layout",
     "children": [
       {
         "path": "",
         "name": "home",
-        "component": "/Users/lem/lagou/hook-operation-1/part3/part3-3/realworld-nuxt/pages/home",
-        "_name": "_9df1adae"
+        "component": "/Users/lem/Desktop/realworld-nuxt/pages/home",
+        "_name": "_f2a4caa2"
       },
       {
         "path": "/login",
         "name": "login",
-        "component": "/Users/lem/lagou/hook-operation-1/part3/part3-3/realworld-nuxt/pages/login",
-        "_name": "_7016445f"
+        "component": "/Users/lem/Desktop/realworld-nuxt/pages/login",
+        "_name": "_4f3e0399"
       },
       {
         "path": "/register",
         "name": "register",
-        "component": "/Users/lem/lagou/hook-operation-1/part3/part3-3/realworld-nuxt/pages/login",
-        "_name": "_7016445f"
+        "component": "/Users/lem/Desktop/realworld-nuxt/pages/login",
+        "_name": "_4f3e0399"
       },
       {
         "path": "/profile/:username",
         "name": "profile",
-        "component": "/Users/lem/lagou/hook-operation-1/part3/part3-3/realworld-nuxt/pages/profile",
-        "_name": "_c6850dc2"
+        "component": "/Users/lem/Desktop/realworld-nuxt/pages/profile",
+        "_name": "_50f251d9"
       },
       {
         "path": "/settings",
         "name": "settings",
-        "component": "/Users/lem/lagou/hook-operation-1/part3/part3-3/realworld-nuxt/pages/settings",
-        "_name": "_e79c8926"
+        "component": "/Users/lem/Desktop/realworld-nuxt/pages/settings",
+        "_name": "_5e97f9f3"
       },
       {
         "path": "/editor",
         "name": "editor",
-        "component": "/Users/lem/lagou/hook-operation-1/part3/part3-3/realworld-nuxt/pages/editor",
-        "_name": "_f3b32992"
+        "component": "/Users/lem/Desktop/realworld-nuxt/pages/editor",
+        "_name": "_e812d986"
       },
       {
         "path": "/article/:slug",
         "name": "article",
-        "component": "/Users/lem/lagou/hook-operation-1/part3/part3-3/realworld-nuxt/pages/article",
-        "_name": "_f8f08728"
+        "component": "/Users/lem/Desktop/realworld-nuxt/pages/article",
+        "_name": "_37bc9526"
       }
     ],
-    "_name": "_dc157618"
+    "_name": "_d075260c"
   }
 ]
